@@ -19,8 +19,9 @@ This is a minimal web-based calculator built using **Flask**. It allows users to
 
 ```bash
 .
-├── website.py              # Main Flask application
+├── website.py             
 ├── templates/
-│   └── index.html          # Frontend HTML template
-├── requirements.txt        # Project dependencies
-├── Procfile                # For deployment (e.g., Heroku/Render)
+│   └── index.html
+    └── 1.webp      
+├── requirements.txt       
+├── Procfile                
