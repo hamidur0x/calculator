@@ -44,3 +44,4 @@ pip install Flask
 ```bash
 python app.py
 ```
+**if it didn't run then maybe your machine need to create and activate virtual environment before installing the pip**
