@@ -42,5 +42,5 @@ cd calculator
 pip install Flask
 ```
 ```bash
-python main.py
+python app.py
 ```
