@@ -25,3 +25,22 @@ This is a minimal web-based calculator built using **Flask**. It allows users to
     └── 1.webp      
 ├── requirements.txt       
 ├── Procfile                
+```
+## ▶️ How to Run
+
+1. 📥 Download or clone the repository.
+2. 📂 Make sure all the files are in the same directory as in the repository.
+3. 🐍 Make sure you have Python installed (version 3.x).  
+4. 💻 Run the script:
+```bash
+git clone https://github.com/hamidur0x/calculator.git
+```
+```bash
+cd calculator
+```
+```bash
+pip install Flask
+```
+```bash
+python main.py
+```
